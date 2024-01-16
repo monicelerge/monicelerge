@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @monicelerge
+- I have 37 years
+- I'm studant 
 
 
 <!---
