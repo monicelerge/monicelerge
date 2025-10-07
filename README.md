@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @monicelerge
 - Tenho 38 anos
-- Estou em busca da primeira oportunidade na área de TI.
+  LinkedIn:https://www.linkedin.com/in/moniquecelerge041186
+Email:monique.celerge@gmail.com
 
 
 <!---
